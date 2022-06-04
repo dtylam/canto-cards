@@ -1,0 +1,57 @@
+{
+    "session": {
+        "created": "2022-06-047T15:23:58.767Z",
+        "vocabs": [
+            {
+                "word_en": "My name is",
+                "word_canto": "我嗰名喺",
+                "jyutping": "ngo5 go3 meng4 hai6",
+                "tags": [
+                    {
+                        "tag": "colloquial"
+                    }
+                ]
+            },
+            {
+                "word_en": "learn",
+                "word_canto": "學習",
+                "jyutping": "hok6 zaap6",
+                "tags": [
+                    {
+                        "tag": "activity"
+                    }
+                ]
+            },
+            {
+                "word_en": "Finland",
+                "word_canto": "芬蘭",
+                "jyutping": "fan1 laan4",
+                "tags": [
+                    {
+                        "tag": "geography"
+                    }
+                ]
+            },
+            {
+                "word_en": "live in",
+                "word_canto": "住喺",
+                "jyutping": "zyu6 hai2",
+                "tags": [
+                    {
+                        "tag": "colloquial"
+                    }
+                ]
+            },
+            {
+                "word_en": "finding/ looking for",
+                "word_canto": "搵緊",
+                "jyutping": "wan2 gan2",
+                "tags": [
+                    {
+                        "tag": "colloquial"
+                    }
+                ]
+            }
+        ]
+    }
+}
