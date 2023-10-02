@@ -101,6 +101,7 @@
                         "tag": "classroom"
                     }
                 ]
+	    },
             {
                 "word_en": "Nearly finished",
                 "word_canto": "就得喇",
@@ -152,6 +153,5 @@
                 ]
             }
         ],
-        "comment": ""
     }
 }
