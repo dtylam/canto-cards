@@ -1,0 +1,157 @@
+{
+    "session": {
+        "created": "2023-10-02T21:00:58.767Z",
+        "vocabs": [
+            {
+                "word_en": "Follow me and say",
+                "word_canto": "",
+                "jyutping": "Gan2 ngo5 gong2",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Have you got any questions?",
+                "word_canto": "你有冇問題啊？",
+                "jyutping": "Nei5 jau5 mou5 man6 tai4 aa3?",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Question",
+                "word_canto": "問題",
+                "jyutping": "Man6 tai4",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Do not have",
+                "word_canto": "冇",
+                "jyutping": "Mou5",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Have",
+                "word_canto": "有",
+                "jyutping": "Jau5",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Do you understand?",
+                "word_canto": "你明唔明啊？",
+                "jyutping": "Nei5 ming4 m4 ming4 aa3?",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "I understand",
+                "word_canto": "我明",
+                "jyutping": "Ngo5 ming4",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "I do not understand",
+                "word_canto": "我唔明",
+                "jyutping": "Ngo5 m4 ming4",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Have you finished?",
+                "word_canto": "得未啊？",
+                "jyutping": "Dak1 mei6 aa3?",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Not yet finished",
+                "word_canto": "未得啊",
+                "jyutping": "Mei6 dak1 aa3",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            {
+                "word_en": "Nearly finished",
+                "word_canto": "就得喇",
+                "jyutping": "Zau6 dak1 laa3",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Finished",
+                "word_canto": "得喇",
+                "jyutping": "Dak1 laa3",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "Do you know how to say (PHRASE) in Cantonese?",
+                "word_canto": "你知唔知（PHRASE）點樣講？",
+                "jyutping": "Nei5 zi1 m4 zi1 (PHRASE) dim2 joeng2 gong2?",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "I know. (PHRASE) is (CANTONESE)",
+                "word_canto": "我知。(PHRASE) 係",
+                "jyutping": "Ngo5 zi1. (PHRASE) hai6 (CANTONSE)",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            },
+            {
+                "word_en": "I do not know.",
+                "word_canto": "我唔知",
+                "jyutping": "Ngo5 m4 zi1.",
+                "tags": [
+                    {
+                        "tag": "classroom"
+                    }
+                ]
+            }
+        ],
+        "comment": ""
+    }
+}
