@@ -1,0 +1,117 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Zero",
+                "word_canto": "零",
+                "jyutping": "ling4",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "One",
+                "word_canto": "一",
+                "jyutping": "jat1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Two",
+                "word_canto": "二",
+                "jyutping": "ji6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Three",
+                "word_canto": "三",
+                "jyutping": "saam1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Four",
+                "word_canto": "四",
+                "jyutping": "sei3",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Five",
+                "word_canto": "五",
+                "jyutping": "ng5",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Six",
+                "word_canto": "六",
+                "jyutping": "luk6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seven",
+                "word_canto": "七",
+                "jyutping": "cat1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Eight",
+                "word_canto": "八",
+                "jyutping": "baat3",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Nine",
+                "word_canto": "九",
+                "jyutping": "gau2",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Ten",
+                "word_canto": "十",
+                "jyutping": "sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            }
+        ]
+    }
+}
