@@ -1,0 +1,108 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Eleven",
+                "word_canto": "十一",
+                "jyutping": "sap6 jat1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Twelve",
+                "word_canto": "十二",
+                "jyutping": "sap6 ji6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Thirteen",
+                "word_canto": "十三",
+                "jyutping": "sap6 saam1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Fourteen",
+                "word_canto": "十四",
+                "jyutping": "sap6 sei3",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Fifteen",
+                "word_canto": "十五",
+                "jyutping": "sap6 ng5",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sixteen",
+                "word_canto": "十六",
+                "jyutping": "sap6 luk6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seventeen",
+                "word_canto": "十七",
+                "jyutping": "sap6 cat1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Eighteen",
+                "word_canto": "十八",
+                "jyutping": "sap6 baat3",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Nineteen",
+                "word_canto": "十九",
+                "jyutping": "sap6 gau2",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Twenty",
+                "word_canto": "二十",
+                "jyutping": "ji6 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            }
+        ],
+      "comment": "In Cantonese, numbers between 11 and 19 are formed by combining 十 (sap6), which means ten with the unit digit (1–9).",
+    }
+}
