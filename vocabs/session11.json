@@ -1,0 +1,87 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Thirty",
+                "word_canto": "三十",
+                "jyutping": "saam1 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Forty",
+                "word_canto": "四十",
+                "jyutping": "sei3 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Fifty",
+                "word_canto": "五十",
+                "jyutping": "ng5 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sixty",
+                "word_canto": "六十",
+                "jyutping": "luk6 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seventy",
+                "word_canto": "七十",
+                "jyutping": "cat1 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Eighty",
+                "word_canto": "八十",
+                "jyutping": "baat3 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Ninety",
+                "word_canto": "九十",
+                "jyutping": "gau2 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "One Hundred",
+                "word_canto": "一百",
+                "jyutping": "jat1 baak3",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            }
+        ]
+    }
+}
