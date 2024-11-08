@@ -1,0 +1,127 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Hello / How are you?",
+                "word_canto": "你好",
+                "jyutping": "nei5 hou2",
+                "tags": [
+                    {
+                        "tag": "greeting"
+                    }
+                ]
+            },
+            {
+                "word_en": "How are you?",
+                "word_canto": "你好嗎?",
+                "jyutping": "nei5 hou2 maa3",
+                "tags": [
+                    {
+                        "tag": "greeting"
+                    }
+                ]
+            },
+            {
+                "word_en": "I'm fine.",
+                "word_canto": "我好好",
+                "jyutping": "ngo5 hou2 hou2",
+                "tags": [
+                    {
+                        "tag": "response"
+                    }
+                ]
+            },
+            {
+                "word_en": "Just so-so.",
+                "word_canto": "麻麻哋",
+                "jyutping": "maa4 maa4 dei2",
+                "tags": [
+                    {
+                        "tag": "response"
+                    }
+                ]
+            },
+            {
+                "word_en": "Not so good.",
+                "word_canto": "唔係幾好",
+                "jyutping": "m4 hai6 gei2 hou2",
+                "tags": [
+                    {
+                        "tag": "response"
+                    }
+                ]
+            },
+            {
+                "word_en": "Thank you (for help) / Excuse me / Please",
+                "word_canto": "唔該",
+                "jyutping": "m4 goi1",
+                "tags": [
+                    {
+                        "tag": "politeness"
+                    }
+                ]
+            },
+            {
+                "word_en": "Thank you (for a gift)",
+                "word_canto": "多謝",
+                "jyutping": "do1 ze6",
+                "tags": [
+                    {
+                        "tag": "politeness"
+                    }
+                ]
+            },
+            {
+                "word_en": "You’re welcome.",
+                "word_canto": "唔使客氣",
+                "jyutping": "m4 sai2 haak3 hei3",
+                "tags": [
+                    {
+                        "tag": "response"
+                    }
+                ]
+            },
+            {
+                "word_en": "No problem / It’s all right.",
+                "word_canto": "冇問題",
+                "jyutping": "mou5 man6 tai4",
+                "tags": [
+                    {
+                        "tag": "response"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sorry (casual)",
+                "word_canto": "唔好意思",
+                "jyutping": "m4 hou2 ji3 si1",
+                "tags": [
+                    {
+                        "tag": "politeness"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sorry (more formal or serious)",
+                "word_canto": "對唔住",
+                "jyutping": "deoi3 m4 zyu6",
+                "tags": [
+                    {
+                        "tag": "politeness"
+                    }
+                ]
+            },
+            {
+                "word_en": "Help! (in an emergency)",
+                "word_canto": "救命呀!",
+                "jyutping": "gau3 meng6 aa3",
+                "tags": [
+                    {
+                        "tag": "emergency"
+                    }
+                ]
+            }
+        ]
+    }
+}
