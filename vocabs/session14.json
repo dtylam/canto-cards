@@ -1,0 +1,97 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Ten Thousand",
+                "word_canto": "一萬",
+                "jyutping": "jat1 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Twenty Thousand",
+                "word_canto": "二萬",
+                "jyutping": "ji6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Thirty Thousand",
+                "word_canto": "三萬",
+                "jyutping": "saam1 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Forty Thousand",
+                "word_canto": "四萬",
+                "jyutping": "sei3 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Fifty Thousand",
+                "word_canto": "五萬",
+                "jyutping": "ng5 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sixty Thousand",
+                "word_canto": "六萬",
+                "jyutping": "luk6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seventy Thousand",
+                "word_canto": "七萬",
+                "jyutping": "cat1 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Eighty Thousand",
+                "word_canto": "八萬",
+                "jyutping": "baat3 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Ninety Thousand",
+                "word_canto": "九萬",
+                "jyutping": "gau2 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            }
+        ]
+    }
+}
