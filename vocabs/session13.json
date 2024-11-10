@@ -1,0 +1,127 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "One Thousand",
+                "word_canto": "一千",
+                "jyutping": "jat1 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Two Thousand",
+                "word_canto": "二千",
+                "jyutping": "ji6 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Three Thousand",
+                "word_canto": "三千",
+                "jyutping": "saam1 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Four Thousand",
+                "word_canto": "四千",
+                "jyutping": "sei3 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Five Thousand",
+                "word_canto": "五千",
+                "jyutping": "ng5 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Six Thousand",
+                "word_canto": "六千",
+                "jyutping": "luk6 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seven Thousand",
+                "word_canto": "七千",
+                "jyutping": "cat1 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Eight Thousand",
+                "word_canto": "八千",
+                "jyutping": "baat3 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Nine Thousand",
+                "word_canto": "九千",
+                "jyutping": "gau2 cin1",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "One Thousand Two Hundred and Fifty",
+                "word_canto": "一千二百五十",
+                "jyutping": "jat1 cin1 ji6 baak3 ng5 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Two Thousand Three Hundred and Forty-Five",
+                "word_canto": "二千三百四十五",
+                "jyutping": "ji6 cin1 saam1 baak3 sei3 sap6 ng5",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seven Thousand Four Hundred and Eighty-Nine",
+                "word_canto": "七千四百八十九",
+                "jyutping": "cat1 cin1 sei3 baak3 baat3 sap6 gau2",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            }
+        ]
+    }
+}
