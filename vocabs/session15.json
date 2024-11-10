@@ -1,0 +1,157 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "One Hundred Thousand",
+                "word_canto": "十萬",
+                "jyutping": "sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Two Hundred Thousand",
+                "word_canto": "二十萬",
+                "jyutping": "ji6 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Three Hundred Thousand",
+                "word_canto": "三十萬",
+                "jyutping": "saam1 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Four Hundred Thousand",
+                "word_canto": "四十萬",
+                "jyutping": "sei3 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Five Hundred Thousand",
+                "word_canto": "五十萬",
+                "jyutping": "ng5 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Six Hundred Thousand",
+                "word_canto": "六十萬",
+                "jyutping": "luk6 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Seven Hundred Thousand",
+                "word_canto": "七十萬",
+                "jyutping": "cat1 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Eight Hundred Thousand",
+                "word_canto": "八十萬",
+                "jyutping": "baat3 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Nine Hundred Thousand",
+                "word_canto": "九十萬",
+                "jyutping": "gau2 sap6 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "One Million",
+                "word_canto": "一百萬",
+                "jyutping": "jat1 baak3 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Two Million",
+                "word_canto": "二百萬",
+                "jyutping": "ji6 baak3 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Five Million",
+                "word_canto": "五百萬",
+                "jyutping": "ng5 baak3 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Nine Million",
+                "word_canto": "九百萬",
+                "jyutping": "gau2 baak3 maan6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "One Hundred Twenty-Three Thousand, Four Hundred Fifty-Six",
+                "word_canto": "十二萬三千四百五十六",
+                "jyutping": "sap6 ji6 maan6 saam1 cin1 sei3 baak3 ng5 sap6 luk6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            },
+            {
+                "word_en": "Five Million, Six Hundred Seventy-Eight Thousand, Nine Hundred Ten",
+                "word_canto": "五百六十七萬八千九百一十",
+                "jyutping": "ng5 baak3 luk6 sap6 cat1 maan6 baat3 cin1 gau2 baak3 jat1 sap6",
+                "tags": [
+                    {
+                        "tag": "number"
+                    }
+                ]
+            }
+        ]
+    }
+}
