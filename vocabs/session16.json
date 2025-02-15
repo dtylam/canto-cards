@@ -1,0 +1,107 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Mother",
+                "word_canto": "媽媽 / 阿媽",
+                "jyutping": "maa4 maa1 / aa3 maa2",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Father",
+                "word_canto": "爸爸 / 阿爸",
+                "jyutping": "baa4 baa1 / aa3 baa4",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Parents",
+                "word_canto": "父母",
+                "jyutping": "fu6 mou5",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Older Brother",
+                "word_canto": "哥哥",
+                "jyutping": "go4 go1",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Younger Brother",
+                "word_canto": "細佬",
+                "jyutping": "sai3 lou2",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Older Sister",
+                "word_canto": "家姐",
+                "jyutping": "gaa1 ze1",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Younger Sister",
+                "word_canto": "細妹",
+                "jyutping": "sai3 mui6",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Son",
+                "word_canto": "仔",
+                "jyutping": "zai2",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Daughter",
+                "word_canto": "女",
+                "jyutping": "neoi5",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            },
+            {
+                "word_en": "Children",
+                "word_canto": "小朋友",
+                "jyutping": "siu2 pang4 jau5",
+                "tags": [
+                    {
+                        "tag": "family"
+                    }
+                ]
+            }
+        ]
+    }
+}
