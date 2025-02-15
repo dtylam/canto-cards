@@ -1,0 +1,248 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "Mathematics",
+                "word_canto": "數學",
+                "jyutping": "sou3 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Science",
+                "word_canto": "科學",
+                "jyutping": "fo1 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "English",
+                "word_canto": "英文",
+                "jyutping": "jing1 man4",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Chinese",
+                "word_canto": "中文",
+                "jyutping": "zung1 man4",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "History",
+                "word_canto": "歷史",
+                "jyutping": "lik6 si2",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Geography",
+                "word_canto": "地理",
+                "jyutping": "dei6 lei5",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Physics",
+                "word_canto": "物理",
+                "jyutping": "mat6 lei5",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Chemistry",
+                "word_canto": "化學",
+                "jyutping": "faa3 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Biology",
+                "word_canto": "生物",
+                "jyutping": "sang1 mat6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Medicine",
+                "word_canto": "醫學",
+                "jyutping": "ji1 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Computer Science",
+                "word_canto": "電腦科學",
+                "jyutping": "din6 nou5 fo1 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Electronic Engineering",
+                "word_canto": "電子工程",
+                "jyutping": "din6 zi2 gung1 cing4",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Physical Education (PE)",
+                "word_canto": "體育",
+                "jyutping": "tai2 juk6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Music",
+                "word_canto": "音樂",
+                "jyutping": "jam1 ngok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Art",
+                "word_canto": "美術",
+                "jyutping": "mei5 seot6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Fine Art",
+                "word_canto": "藝術",
+                "jyutping": "ngai6 soet6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Architecture",
+                "word_canto": "建築學",
+                "jyutping": "Gin3 zuk1 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Economics",
+                "word_canto": "經濟學",
+                "jyutping": "ging1 zai3 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Business Studies",
+                "word_canto": "商業學",
+                "jyutping": "soeng1 jip6 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Business and Management",
+                "word_canto": "工商管理",
+                "jyutping": "Gung1 soeng1 gun2 lei5",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Accounting",
+                "word_canto": "會計",
+                "jyutping": "wui6 gai3 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Marketing",
+                "word_canto": "市場學",
+                "jyutping": "si6 coeng4 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Psychology",
+                "word_canto": "心理學",
+                "jyutping": "sam1 lei5 hok6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            {
+                "word_en": "Translation",
+                "word_canto": "翻譯",
+                "jyutping": "faan1 jik6",
+                "tags": [
+                    {
+                        "tag": "subject"
+                    }
+                ]
+            },
+            
+        ]
+    }
+}
