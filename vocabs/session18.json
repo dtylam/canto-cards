@@ -1,0 +1,317 @@
+{
+    "session": {
+        "created": "0000-00-00T00:00:00.000Z",
+        "vocabs": [
+            {
+                "word_en": "General measure word for people and most objects",
+                "word_canto": "個",
+                "jyutping": "go3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Clothing, events, matters",
+                "word_canto": "件",
+                "jyutping": "gin6",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Polite measure word for people",
+                "word_canto": "位",
+                "jyutping": "wai2",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Animals, small objects",
+                "word_canto": "隻",
+                "jyutping": "zek3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Long, thin objects",
+                "word_canto": "條",
+                "jyutping": "tiu4",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Books, magazines, notebooks",
+                "word_canto": "本",
+                "jyutping": "bun2",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Flat objects",
+                "word_canto": "張",
+                "jyutping": "zoeng1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Stick-like objects",
+                "word_canto": "支",
+                "jyutping": "zi1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Handheld objects",
+                "word_canto": "把",
+                "jyutping": "baa2",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Pieces of something",
+                "word_canto": "塊",
+                "jyutping": "faai3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Bags or packages",
+                "word_canto": "包",
+                "jyutping": "baau1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Machines, vehicles",
+                "word_canto": "部",
+                "jyutping": "bou6",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Large objects like airplanes, TVs, pianos",
+                "word_canto": "架",
+                "jyutping": "gaa3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Vehicles (alternative to 部)",
+                "word_canto": "輛",
+                "jyutping": "loeng6",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Buildings, rooms",
+                "word_canto": "間",
+                "jyutping": "gaan1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Large buildings, mountains, bridges",
+                "word_canto": "座",
+                "jyutping": "zo6",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sets of buildings, apartments, movies",
+                "word_canto": "套",
+                "jyutping": "tou3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Drinks (cups, glasses)",
+                "word_canto": "杯",
+                "jyutping": "bui1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Bowls of food",
+                "word_canto": "碗",
+                "jyutping": "wun2",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Platters of food",
+                "word_canto": "盤",
+                "jyutping": "pun4",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Bottles of drinks",
+                "word_canto": "瓶",
+                "jyutping": "ping4",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Small, round things",
+                "word_canto": "粒",
+                "jyutping": "lap1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Bunches (e.g., bananas, grapes)",
+                "word_canto": "串",
+                "jyutping": "cyun3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Pairs (shoes, socks, gloves)",
+                "word_canto": "雙",
+                "jyutping": "soeng1",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Pairs (earrings, chopsticks)",
+                "word_canto": "對",
+                "jyutping": "deoi3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Occurrences, times something happens",
+                "word_canto": "次",
+                "jyutping": "ci3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Events (movies, games, exams)",
+                "word_canto": "場",
+                "jyutping": "coeng4",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Formal occurrences (replies, speeches)",
+                "word_canto": "回",
+                "jyutping": "wui4",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Types, kinds",
+                "word_canto": "種",
+                "jyutping": "zung2",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Sentences, phrases",
+                "word_canto": "句",
+                "jyutping": "geoi3",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            },
+            {
+                "word_en": "Songs, poems",
+                "word_canto": "首",
+                "jyutping": "sau2",
+                "tags": [
+                    {
+                        "tag": "measure word"
+                    }
+                ]
+            }
+        ]
+    }
+}
